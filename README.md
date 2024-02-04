@@ -2,8 +2,6 @@
 <img src="https://digitalogy.co/blog/wp-content/uploads/2019/03/Machine-Learning.gif" width='100%'/>
 <h3 align="center">For me, technology is not just about the tools or the gadgets; it is about the potential to transform, to transcend. It is a gateway to new dimensions of understanding, a bridge to worlds unimagined. In this quest, I am both student and teacher, learner and innovator, forever pushing the boundaries of what is known, venturing boldly into the unknown.</h3>
 
-<p align="left"> <img src="https://hacer/ghpvc/?username=gurdaan&label=Profile%20views&color=0e75b6&style=flat" alt="gurdaan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurdaan" alt="gurdaan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
