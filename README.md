@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurdaan Walia</h1>
-<img src="https://i2.wp.com/developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width='100%'/>
+<img src="https://digitalogy.co/blog/wp-content/uploads/2019/03/Machine-Learning.gif" width='100%'/>
 <h3 align="center">For me, technology is not just about the tools or the gadgets; it is about the potential to transform, to transcend. It is a gateway to new dimensions of understanding, a bridge to worlds unimagined. In this quest, I am both student and teacher, learner and innovator, forever pushing the boundaries of what is known, venturing boldly into the unknown.</h3>
 
 <p align="left"> <img src="https://hacer/ghpvc/?username=gurdaan&label=Profile%20views&color=0e75b6&style=flat" alt="gurdaan" /> </p>
